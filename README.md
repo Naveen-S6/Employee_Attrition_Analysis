@@ -4,7 +4,7 @@ In this project, I have built a dashboard for understanding the root cause of at
 
 I have used a dataset from Kaggle, you can find the dataset with this [link](https://www.kaggle.com/datasets/anujachintyabiswas/attrition-rate-of-a-company) 
 
-[Live Dashboard link] (https://www.novypro.com/project/-employee-attrition-analysis-)
+[Live Dashboard link](https://www.novypro.com/project/-employee-attrition-analysis-)
 
 <p align="center">
   <img src=https://github.com/Naveen-S6/Employee_Attrition_Analysis/blob/main/home.png width="350" align="center">
