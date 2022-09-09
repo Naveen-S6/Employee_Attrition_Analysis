@@ -4,6 +4,9 @@ In this project, I have built a dashboard for understanding the root cause of at
 
 I have used a dataset from Kaggle, you can find the dataset with this [link](https://www.kaggle.com/datasets/anujachintyabiswas/attrition-rate-of-a-company) 
 
+[Live Dashboard link] (https://www.novypro.com/project/-employee-attrition-analysis-)
+
+![snapshot](https://github.com/Naveen-S6/Employee_Attrition_Analysis/blob/main/home.png)
 
 ## Problem statement 
 
@@ -25,7 +28,6 @@ I'm playing the HR analyst role in this project adn build the dashboard which ca
 - Health issues
 - Maternity break 
 - start up ideas
-
 
 
 ## Some major insights from the Dashboard 
