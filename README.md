@@ -6,7 +6,10 @@ I have used a dataset from Kaggle, you can find the dataset with this [link](htt
 
 [Live Dashboard link] (https://www.novypro.com/project/-employee-attrition-analysis-)
 
-<img src=https://github.com/Naveen-S6/Employee_Attrition_Analysis/blob/main/home.png width="350" align="center">
+<p align="center">
+  <img src=https://github.com/Naveen-S6/Employee_Attrition_Analysis/blob/main/home.png width="350" align="center">
+</p>
+
 
 ## Problem statement 
 
