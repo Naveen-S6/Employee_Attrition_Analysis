@@ -17,7 +17,7 @@ XYZ company which was established few years back is facing around 15% attrition 
 And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company 
 and reduce the attrition rate, XYZ company has approached HR analytics consultancy for analyzing the data they have.
 
-I'm playing the HR analyst role in this project adn build the dashboard which can help the organization in taking data driven decision.
+I'm playing the HR analyst role in this project and build a dashboard which can help the organization in taking data driven decision.
 
 ## Top reasons why Employees switch to other companies
 
